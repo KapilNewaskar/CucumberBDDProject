@@ -1,0 +1,28 @@
+[INFO ] 2023-01-19 20:51:47.445 [main] StepDef - Setup executed..
+[INFO ] 2023-01-19 20:51:47.716 [main] StepDef - User Launch Chrome browser
+[INFO ] 2023-01-19 20:51:49.606 [main] StepDef - URL open...
+[INFO ] 2023-01-19 20:51:49.968 [main] StepDef - Email and password entered..
+[INFO ] 2023-01-19 20:51:54.264 [main] StepDef - clicked on login button..
+[INFO ] 2023-01-19 20:51:54.274 [main] StepDef - Test passed: User can view dashboard
+[INFO ] 2023-01-19 20:51:54.404 [main] StepDef - User click on customer menu
+[INFO ] 2023-01-19 20:51:56.119 [main] StepDef - User click on customer menu item
+[INFO ] 2023-01-19 20:51:58.076 [main] StepDef - Clicked on add new button
+[INFO ] 2023-01-19 20:51:58.125 [main] StepDef - Test passed: User can view add new customer page
+[INFO ] 2023-01-19 20:51:59.737 [main] StepDef - Customer information entered
+[INFO ] 2023-01-19 20:52:01.333 [main] StepDef - Clicked on save button
+[INFO ] 2023-01-19 20:52:01.469 [main] StepDef - Test passed: User can view confirmation message
+[INFO ] 2023-01-19 20:52:01.803 [main] StepDef - browser closed
+[INFO ] 2023-01-19 22:17:15.551 [main] StepDef - Setup executed..
+[INFO ] 2023-01-19 22:17:15.753 [main] StepDef - User Launch Chrome browser
+[INFO ] 2023-01-19 22:17:17.484 [main] StepDef - URL open...
+[INFO ] 2023-01-19 22:17:17.847 [main] StepDef - Email and password entered..
+[INFO ] 2023-01-19 22:17:23.418 [main] StepDef - clicked on login button..
+[INFO ] 2023-01-19 22:17:23.426 [main] StepDef - Test passed: User can view dashboard
+[INFO ] 2023-01-19 22:17:23.541 [main] StepDef - User click on customer menu
+[INFO ] 2023-01-19 22:17:25.134 [main] StepDef - User click on customer menu item
+[INFO ] 2023-01-19 22:17:26.991 [main] StepDef - Clicked on add new button
+[INFO ] 2023-01-19 22:17:27.039 [main] StepDef - Test passed: User can view add new customer page
+[INFO ] 2023-01-19 22:17:28.505 [main] StepDef - Customer information entered
+[INFO ] 2023-01-19 22:17:30.631 [main] StepDef - Clicked on save button
+[INFO ] 2023-01-19 22:17:30.733 [main] StepDef - Test passed: User can view confirmation message
+[INFO ] 2023-01-19 22:17:30.841 [main] StepDef - browser closed
